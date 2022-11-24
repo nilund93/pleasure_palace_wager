@@ -1,0 +1,2 @@
+george gets blame<>True
+CLEAN KILL<>False
